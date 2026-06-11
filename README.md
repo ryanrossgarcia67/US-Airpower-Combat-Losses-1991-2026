@@ -45,7 +45,7 @@ Data was collected from publicly available reporting, official statements, and h
 
 Interactive Tableau Dashboard:
 
-[INSERT TABLEAU PUBLIC LINK]
+[https://public.tableau.com/app/profile/ryan.garcia4428/viz/U_S_AirpowerCombatLossesbyConflict19912026/Dashboard1]
 
 ## Dashboard Preview
 
